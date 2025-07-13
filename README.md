@@ -72,8 +72,3 @@ File `.env` akan otomatis dibuat saat pertama kali dijalankan
     "decrypted_text": "...."
   }
   ```
-
-```
-
-📌 **Langsung salin**, simpan sebagai `README.md` di root project kamu — beres!
-```
